@@ -17,4 +17,5 @@ As follows:
 ## File Types:
 1. BO3 is the detailed version that shows most of the outputs 
 2. EasyBO3 shows a simplified version without much outputs
+
 ___Run script in python ready console or your preferred IDE___
