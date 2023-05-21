@@ -2,7 +2,7 @@
 A mini project of mine to create what I believe to be the fairest game of chance to help anyone decide between 2 options. 'Heads' or 'Tails' with a twist!
 
 ## How It Woks:
-1. A random number is generated from 1-100, afterwards modulus of 2 is applied resulting in either 0 or 1(odd or even).
+1. A random number is generated from 1-100, afterwards modulus of 2 is applied resulting in either 0 or 1(even or odd).
 2. This repeats to complete a best of 3, meaning either heads or tails appears twice (Heads|Heads, Tails|Heads|Heads, etc...). This is marked as 1 'Best of 3' Round. 
 3. This repeats till either 2 rounds go to 'Yes' or two rounds goes to 'No', completing the 'Best Of 3 Of 3'. Issuing a winner of either a Yes or No.
 4. Next, another set of coinflips initializes to compete for consecutive 0's or 1's.
