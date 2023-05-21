@@ -1,6 +1,5 @@
 # Best-Of-3-Of-3
-A mini project of mine to create what I believe to be the fairest game of chance to help anyone decide between 2 options.
-'Heads' for Yes and 'Tails' for No
+A mini project of mine to create what I believe to be the fairest game of chance to help anyone decide between 2 options. 'Heads' or 'Tails' with a twist!
 
 ## How It Woks:
 1. A random number is generated from 1-100, afterwards modulus of 2 is applied resulting in either 0 or 1(odd or even).
