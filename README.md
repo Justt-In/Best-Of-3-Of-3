@@ -13,3 +13,7 @@ As follows:
   - 0,1 -> Restart from step 1 (remove all progress)
   - 1,0 -> Restart step 4
   - 1,1 -> Result of 'Best of 3 of 3' (Steps 1 - 3) is valid and is the decided option. 
+
+## File Types:
+1. BO3 is the detailed version that shows most of the outputs 
+2. BO3Easy shows a simplified version without much outputs
