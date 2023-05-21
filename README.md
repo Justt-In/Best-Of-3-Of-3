@@ -9,7 +9,7 @@ A mini project of mine to create what I believe to be the fairest game of chance
 4. Next, another set of coinflips initializes to compete for consecutive 0's or 1's.
 
 As follows:
-  - 0,0 -> restart step 4
-  - 0,1 -> restart from step 1 (remove all progress)
-  - 1,0 -> restart step 4
-  - 1,1 -> Result of 'Best of 3 of 3' (Steps 1 - 3) is valid and is the decided option.  
+  - 0,0 -> Restart step 4
+  - 0,1 -> Restart from step 1 (remove all progress)
+  - 1,0 -> Restart step 4
+  - 1,1 -> Result of 'Best of 3 of 3' (Steps 1 - 3) is valid and is the decided option. 
